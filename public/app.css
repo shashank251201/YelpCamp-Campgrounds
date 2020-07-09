@@ -1,0 +1,13 @@
+body{
+    margin: 20px;
+}
+
+div{
+    margin: 20px;
+}
+
+div p{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
