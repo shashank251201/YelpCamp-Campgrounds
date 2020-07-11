@@ -9,6 +9,12 @@ app.set("view engine" , "ejs");
 var campgrounds=[
     {name:"Salmon Creek" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-avalanche-campground.jpg"},
     {name:"Granite Hill" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-fish-creek-campground.jpg"},
+    {name:"Mountain Goat's Rest" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-rising-sun-campground.jpg"},
+    {name:"Salmon Creek" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-avalanche-campground.jpg"},
+    {name:"Granite Hill" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-fish-creek-campground.jpg"},
+    {name:"Mountain Goat's Rest" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-rising-sun-campground.jpg"},
+    {name:"Salmon Creek" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-avalanche-campground.jpg"},
+    {name:"Granite Hill" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-fish-creek-campground.jpg"},
     {name:"Mountain Goat's Rest" , image:"https://www.planetware.com/wpimages/2019/10/montana-glacier-national-park-best-campgrounds-rising-sun-campground.jpg"}
 ];
 
